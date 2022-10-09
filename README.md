@@ -1,0 +1,2 @@
+# DecentralizedBet
+Decentralized Bet Application
